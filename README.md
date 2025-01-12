@@ -29,6 +29,7 @@ or
 
 - HTML5
 - CSS3
+- JAVASCRIPT
 
 ## Author
  
@@ -73,6 +74,7 @@ ou
 
 - HTML5
 - CSS3
+- JAVASCRIPT
 
 ## Autor
  
